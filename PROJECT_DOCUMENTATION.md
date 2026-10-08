@@ -130,3 +130,30 @@ Project Name: GridWatch AI
 Development Platform: Base44 AI
 Domain: Electrical & Electronics Engineering
 Application Type: Web Application
+Live Project:
+https://glittering-grid-guard-intel.base44.app/
+GitHub Repository:
+https://github.com/Lavanyakasetty/AI-Based-Electricity-Theft-Detection-System
+17. Author
+Lavanya Kasetty
+B.Tech – Electrical & Electronics Engineering
+18. References
+- Base44 AI – Application Development Platform
+- GitHub Documentation
+- Concepts of electricity consumption monitoring
+- Concepts of anomaly detection in energy systems
+
+### 2. Click **Commit changes**
+
+After pasting:
+
+**Commit changes → Commit directly to `main`**
+
+Then your repository will contain:
+
+```text
+AI-Based-Electricity-Theft-Detection-System
+│
+├── README.md
+├── PROJECT_DOCUMENTATION.md
+└── document_ibm.pdf
