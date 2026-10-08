@@ -30,5 +30,5 @@ Electricity theft causes revenue loss and affects power distribution systems. Th
 - Automated alerts
 
 ## Author
-Your Name
+Lavanya Kasetty
 B.Tech – Electrical & Electronics Engineering
